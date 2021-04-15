@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anton Sluchak
+- 👀 I’m interested in management and software development
+- 🌱 I’m currently learning to use non-vendorlock approaches
+- 📫 How to reach me - LinkenId

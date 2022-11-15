@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anton Sluchak
-- 👀 I’m interested in management and software development
-- 🌱 I’m currently learning to use non-vendorlock approaches
-- 📫 How to reach me - LinkenId
+- 👀 I’m interested in management, software development and infrastructure
+- 🌱 I’m currently learning to use infrastructure and developement avoiding vendor-locks
+- 📫 How to reach me - [LinkenId](https://www.linkedin.com/in/antonsluchak/)
